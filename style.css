@@ -1,9 +1,9 @@
 body {
-    background: #c0c0c0cc
+    background: rgb(180, 177, 177)
 }
 
 .principal{
-    background: #CCCCCC;
+    background: gray;
     padding: 30px;
 }
 
@@ -12,10 +12,24 @@ body {
 }
 
 .beneficios{
-    background: #FFFFFF;
+    background: gray;
     padding: 20px;
 }
 
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20;
+    margin-right: 15%;
+}
+
+.imgbeneficios{
+    width: 50%;
+}
 
 p{
     text-align: center;
@@ -26,13 +40,17 @@ em strong{
 }
 
 #banner{
-    width: 100%
+    width: 100%;
 }
 
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
 
 #missao{
     font-size: 20px;
+}
+
+#beneficios{
+    width: 100%;
 }
