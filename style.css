@@ -1,6 +1,5 @@
-
 body {
-    background: #ffffff
+    background: #c0c0c0cc
 }
 
 p{
@@ -9,4 +8,8 @@ p{
 
 em strong{
     color: #03d65b
+}
+
+#banner{
+    width: 100%
 }
